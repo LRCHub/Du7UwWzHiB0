@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Straight Line",
+  "base_artist": "Kep1er",
+  "createdAt": "2026-03-10T06:03:34.699745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Straight Line",
+      "artist": "Wire",
+      "has_synced": true,
+      "path": "select/01_Straight_Line_Wire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walking the Straight Line",
+      "artist": "Magnum",
+      "has_synced": true,
+      "path": "select/02_Walking_the_Straight_Line_Magnum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walk a Straight Line",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/03_Walk_a_Straight_Line_Squeeze.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Straight Line",
+      "artist": "Crosby, Stills & Nash",
+      "has_synced": false,
+      "path": "select/04_Straight_Line_Crosby,_Stills_&_Nash.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Straight Line",
+      "artist": "Hawk Nelson",
+      "has_synced": true,
+      "path": "select/05_Straight_Line_Hawk_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Straight Line (2006 Remastered Version)",
+      "artist": "Wire",
+      "has_synced": false,
+      "path": "select/06_Straight_Line_(2006_Remastered_Version)_Wire.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Tried to Draw a Straight Line",
+      "artist": "Petey",
+      "has_synced": true,
+      "path": "select/07_I_Tried_to_Draw_a_Straight_Line_Petey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Straight Line",
+      "artist": "Stu Larsen",
+      "has_synced": false,
+      "path": "select/08_The_Straight_Line_Stu_Larsen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tryin' To Walk A Straight Line",
+      "artist": "Billy Squier",
+      "has_synced": false,
+      "path": "select/09_Tryin'_To_Walk_A_Straight_Line_Billy_Squier.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Straight Line",
+      "artist": "Michael Hutchence",
+      "has_synced": false,
+      "path": "select/10_A_Straight_Line_Michael_Hutchence.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Straight Line",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/11_Straight_Line_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Straight Line",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/12_Straight_Line_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Straight Line",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/13_Straight_Line_Kep1er.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Straight Line (KOR ver.)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/14_Straight_Line_(KOR_ver.)_Kep1er.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Straight Line",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_Straight_Line_Kep1er.txt"
+    }
+  ]
+}
